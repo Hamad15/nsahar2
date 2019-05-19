@@ -9,7 +9,7 @@ console.log("BOT هههه.");
   return channel.send(`**السلام عليكم
 -أحادثينا حقيقية وتواجدنا دائم حتى وأن ضاقت بك الأوقات
 ‏دائم التواجد لذلك أقترب ولا تزيد أضعاف المسافة**. ♥
-https://discord.gg/7tHvuq2
+https://discord.gg/8prRypM
 [ ${member}  ]
 @everyone
 @here
@@ -22,7 +22,7 @@ client.on("guildMemberAdd", member => {
   return channel.send(`**السلام عليكم
 -أحادثينا حقيقية وتواجدنا دائم حتى وأن ضاقت بك الأوقات
 ‏دائم التواجد لذلك أقترب ولا تزيد أضعاف المسافة**. ♥
-https://discord.gg/7tHvuq2
+https://discord.gg/8prRypM
 [ ${member}  ]
 @everyone
 @here
